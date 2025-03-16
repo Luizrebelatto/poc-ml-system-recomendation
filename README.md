@@ -10,9 +10,10 @@
  
 # How to run:
 1. clone repository
-2. install libs
+2. DownLoad the files [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?resource=download&select=movies_metadata.csv) rating.csv and keywords.csv, after that place in the root of the project
+3. install libs
    -  ` pip install polars scikit-learn numpy pandas`
-3. run
+4. run
    - `python3 script.py`
  
 
